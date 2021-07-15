@@ -1,2 +1,2 @@
-# Resolução dos Exercícios
-Repositório criado para compartilhar as resoluções dos exercícios propostos no processo de estágio.
+# Exercício_3
+Repositório criado para compartilhar a resolução do exercício 3 solicitado no processo de estágio.
